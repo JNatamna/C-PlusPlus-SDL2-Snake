@@ -1,1 +1,1 @@
-# C-Snake
+# C++ SDL2 Snake

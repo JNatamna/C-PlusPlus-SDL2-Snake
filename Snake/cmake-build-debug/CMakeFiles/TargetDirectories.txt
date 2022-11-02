@@ -1,0 +1,3 @@
+G:/Development/Projects/PG4400_Eksamen2021/Snake/cmake-build-debug/CMakeFiles/Snake.dir
+G:/Development/Projects/PG4400_Eksamen2021/Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Development/Projects/PG4400_Eksamen2021/Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+C:\Users\noora\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" G:\Development\Projects\PG4400_Eksamen2021\Snake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/Development/Projects/PG4400_Eksamen2021/Snake/cmake-build-debug
